@@ -1,0 +1,11 @@
+Question - https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#
+Solution - https://practice.geeksforgeeks.org/viewSol.php?subId=ba6dad3ef0658c64e10b2e213b7efdb0&pid=702382&user=priyakumari992001
+
+
+class Solution
+{
+    public static void sort012(int a[], int n)
+    {
+        Arrays.sort(a);
+    }
+}
